@@ -1,6 +1,15 @@
 # Pedlar e-Commerce Store + Admin App
 
-> Serverless e-Commerce Store with Multivendor Admin App
+**Serverless e-Commerce Store with Multivendor Admin App**
+
+> Deployed:
+>
+> - **e-commerce Store**: [pedlar.sarthak.app](https://pedlar.sarthak.app)
+> - **Admin App**: [admin.pedlar.sarthak.app](https://admin.pedlar.sarthak.app)
+>   - demo user email: `demo@sarthak.app`
+>   - demo user's password: `demopass`
+>
+> _use the ☝️above demo user data to checkout the application_
 
 ### Core Features:
 
